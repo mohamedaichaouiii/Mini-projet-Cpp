@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1554672892 source:d:\ali\c++\projects\forum\main.cpp
+	<iostream>
+	"date.h"
+
+1554673427 source:d:\ali\c++\projects\forum\date.cpp
+	"date.h"
+
+1554671747 d:\ali\c++\projects\forum\date.h
+
+1554758752 source:h:\mp c++\forum\main.cpp
+	<iostream>
+	"date.h"
+
+1554758418 h:\mp c++\forum\date.h
+
+1554758406 source:h:\mp c++\forum\date.cpp
+	"date.h"
+
+1554758406 source:e:\mp c++\forum\date.cpp
+	"date.h"
+
+1554758418 e:\mp c++\forum\date.h
+
+1554758752 source:e:\mp c++\forum\main.cpp
+	<iostream>
+	"date.h"
+
+1555886418 source:e:\mp c++\forum\utilisateur.cpp
+	"utilisateur.h"
+
+1555886386 e:\mp c++\forum\utilisateur.h
+	<string>
+
+1555886870 source:e:\mp c++\forum\forum.cpp
+	"forum.h"
+
+1555886870 e:\mp c++\forum\forum.h
+	<vector>
+	"utilisateur.h"
+	"theme.h"
+
+1555886460 e:\mp c++\forum\theme.h
+	"discussion.h"
+	<vector>
+
+1554760452 e:\mp c++\forum\discussion.h
+	<vector>
+	"date.h"
+	"message.h"
+	"utilisateur.h"
+
+1554675390 e:\mp c++\forum\message.h
+	<string>
+
+1554758406 source:c:\users\asus vivobook\desktop\boubliaat\projects\c-c++\mp c++\forum\date.cpp
+	"date.h"
+
+1554758418 c:\users\asus vivobook\desktop\boubliaat\projects\c-c++\mp c++\forum\date.h
+
+1555887552 source:c:\users\asus vivobook\desktop\boubliaat\projects\c-c++\mp c++\forum\forum.cpp
+	"forum.h"
+
+1555887552 c:\users\asus vivobook\desktop\boubliaat\projects\c-c++\mp c++\forum\forum.h
+	<vector>
+	"utilisateur.h"
+	"theme.h"
+
+1555886386 c:\users\asus vivobook\desktop\boubliaat\projects\c-c++\mp c++\forum\utilisateur.h
+	<string>
+
+1555886460 c:\users\asus vivobook\desktop\boubliaat\projects\c-c++\mp c++\forum\theme.h
+	"discussion.h"
+	<vector>
+
+1554760452 c:\users\asus vivobook\desktop\boubliaat\projects\c-c++\mp c++\forum\discussion.h
+	<vector>
+	"date.h"
+	"message.h"
+	"utilisateur.h"
+
+1554675390 c:\users\asus vivobook\desktop\boubliaat\projects\c-c++\mp c++\forum\message.h
+	<string>
+
+1555887550 source:c:\users\asus vivobook\desktop\boubliaat\projects\c-c++\mp c++\forum\main.cpp
+	<iostream>
+	"date.h"
+
+1644140422 source:c:\users\asus vivobook\desktop\boubliaat\projects\c-c++\mp c++\forum\utilisateur.cpp
+	"utilisateur.h"
+
+1554762006 source:g:\boubliaat\boubliaat\projects\c-c++\mp c++\forum\date.cpp
+	"date.h"
+
+1554762018 g:\boubliaat\boubliaat\projects\c-c++\mp c++\forum\date.h
+
+1555891152 source:g:\boubliaat\boubliaat\projects\c-c++\mp c++\forum\forum.cpp
+	"forum.h"
+
+1555891152 g:\boubliaat\boubliaat\projects\c-c++\mp c++\forum\forum.h
+	<vector>
+	"utilisateur.h"
+	"theme.h"
+
+1555889986 g:\boubliaat\boubliaat\projects\c-c++\mp c++\forum\utilisateur.h
+	<string>
+
+1555890060 g:\boubliaat\boubliaat\projects\c-c++\mp c++\forum\theme.h
+	"discussion.h"
+	<vector>
+
+1554764052 g:\boubliaat\boubliaat\projects\c-c++\mp c++\forum\discussion.h
+	<vector>
+	"date.h"
+	"message.h"
+	"utilisateur.h"
+
+1554678990 g:\boubliaat\boubliaat\projects\c-c++\mp c++\forum\message.h
+	<string>
+
+1555891150 source:g:\boubliaat\boubliaat\projects\c-c++\mp c++\forum\main.cpp
+	<iostream>
+	"date.h"
+
+1644140422 source:g:\boubliaat\boubliaat\projects\c-c++\mp c++\forum\utilisateur.cpp
+	"utilisateur.h"
+
